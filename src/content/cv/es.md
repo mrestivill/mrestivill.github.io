@@ -7,7 +7,7 @@ title: Currículum Vitae
 email: mrestivill@protonmail.com
 location: Barcelona
 profileTitle: Cloud Security Solutions Architect
-profile: Architect
+profile: Cloud Solutions Architect
 experienceTitle: Senior
 educationTitle: Telecomunication Engineer
 skillsTitle: Cloud Security
@@ -24,7 +24,7 @@ sections:
 
 experience:
   - period: Actualment
-    role: Enginyer Seguretat Cloud
+    role: Ingeniero en Seguridad Cloud
     company: GFT
     location: Sant Cugat
     description: Proyectos orientados a seguridad de acceso y cloud.

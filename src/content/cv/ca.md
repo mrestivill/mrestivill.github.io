@@ -7,7 +7,7 @@ title: Currículum Vitae
 email: mrestivill@protonmail.com
 location: Barcelona
 profileTitle: Cloud Security Solutions Architect
-profile: Architect
+profile: Cloud Solutions Architect
 experienceTitle: Senior
 educationTitle: Telecomunication Engineer
 skillsTitle: Cloud Security
