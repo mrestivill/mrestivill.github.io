@@ -65,13 +65,13 @@ experience:
     description: Administrador de xarxa i analista-programador. Muntatge de servidors.
 
 education:
-  - period: 2011
+  - period: 2011 -- 2012
     degree: Introduction to Artificial Intelligence
     institution: Stanford University
     location: EE.UU.
     specialty: ''
     description: Curs a distància.
-  - period: 2004
+  - period: 2004 -- 2005
     degree: Sécurité sur les systèmes d'exploitation unix et windows
     institution: France Télécom
     location: França

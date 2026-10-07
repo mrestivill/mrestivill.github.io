@@ -65,13 +65,13 @@ experience:
     description: Network administrator and analyst-programmer. Server installation and deployment.
 
 education:
-  - period: 2011
+  - period: 2011 -- 2012
     degree: Introduction to Artificial Intelligence
     institution: Stanford University
     location: USA
     specialty: ''
     description: Distance-learning course.
-  - period: 2004
+  - period: 2004 -- 2005
     degree: Sécurité sur les systèmes d'exploitation unix et windows
     institution: France Télécom
     location: France
