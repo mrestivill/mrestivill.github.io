@@ -20,7 +20,6 @@ const cv = defineCollection({
       role: z.string(),
       period: z.string(),
       description: z.string(),
-      bullets: z.array(z.string())
     })),
     education: z.array(z.object({
       institution: z.string(),

@@ -1,10 +1,16 @@
 ---
 language: en
-firstname: Marc
-familyname: Rodríguez Estivill
+name: Marc Rodríguez-Estivill
+linkedin: https://www.linkedin.com/in/marc-rodriguez-estivill-38a414b
+github: https://github.com/mrestivill
 title: Curriculum Vitae
-email: mrodriguezestivill@gmail.com
+email: mrestivill@protonmail.com
 location: Barcelona
+profileTitle: Cloud Security Solutions Architect
+profile: Architect
+experienceTitle: Senior
+educationTitle: Telecomunication Engineer
+skillsTitle: Cloud Security
 birthDate: 24/02/1981
 downloadLabel: Download CV as PDF
 downloadUrl: /cv/cv-en.pdf
@@ -12,7 +18,7 @@ sections:
   experience: Professional experience
   education: Formal education
   certifications: Certifications
-  technical: Technical skills
+  skills: Technical skills
   languages: Languages
   other: Other
 
@@ -98,7 +104,7 @@ certifications:
   - year: '2001'
     name: Cisco Certified Network Associate (CCNA), in the United Kingdom.
 
-technical:
+skills:
   - category: Office software
     items: MSOffice Suite, LibreOffice.
   - category: Operating systems
