@@ -25,8 +25,7 @@ const cv = defineCollection({
       institution: z.string(),
       degree: z.string(),
       period: z.string()
-    })),
-    skills: z.array(z.string())
+    }))
   })
 });
 
