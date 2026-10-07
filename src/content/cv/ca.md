@@ -6,7 +6,6 @@ title: Currículum Vitae
 email: mrodriguezestivill@gmail.com
 location: Barcelona
 birthDate: 24/02/1981
-photo: /photo.jpg
 downloadLabel: Descarrega el CV en PDF
 downloadUrl: /cv/cv-ca.pdf
 sections:
@@ -32,7 +31,7 @@ experience:
     role: Arquitecte i coordinador d'equip
     company: Gas Natural (General Software)
     location: Barcelona
-    description: Arquitecte i coordinador d'equip Java i .net. Evolutius i manteniment dels frameworks propis de Gas Natural: ADA i V10. Formador en components d'arquitectura. Automatització de tasques i versionat.
+    description: Arquitecte i coordinador d'equip Java i .net. Evolutius i manteniment dels frameworks propis de Gas Natural; ADA i V10. Formador en components d'arquitectura. Automatització de tasques i versionat.
   - period: 2006 -- 2011
     role: Arquitecte
     company: T-Systems (Gedas)
@@ -133,9 +132,6 @@ languages:
   - language: Italià
     level: Nivell A1.
 
-other:
-  - Grau mitjà de piano i solfeig al Conservatori del Liceu de Barcelona.
-  - Premi CIRIT -- 1998 en Electrònica i Informàtica per la Generalitat de Catalunya.
-  - Permís de circulació Classe A i B.
+
 ---
 
