@@ -65,13 +65,13 @@ experience:
     description: Administrador de red y analista-programador. Montaje de servidores.
 
 education:
-  - period: 2011
+  - period: 2011 -- 2012
     degree: Introduction to Artificial Intelligence
     institution: Stanford University
     location: EE.UU.
     specialty: ''
     description: Curso a distancia.
-  - period: 2004
+  - period: 2004 -- 2005
     degree: Sécurité sur les systèmes d'exploitation unix et windows
     institution: France Télécom
     location: Francia
