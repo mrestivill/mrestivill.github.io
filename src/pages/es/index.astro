@@ -4,7 +4,6 @@ import CVLayout from '../../layouts/CVLayout.astro';
 import Profile from '../../components/Profile.astro';
 import Experience from '../../components/Experience.astro';
 import Education from '../../components/Education.astro';
-import Skills from '../../components/Skills.astro';
 
 const entry = await getEntry('cv', 'es');
 if (!entry) throw new Error('Missing Spanish CV');
