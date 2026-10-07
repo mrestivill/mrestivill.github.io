@@ -1,0 +1,11 @@
+---
+const { data } = Astro.props;
+---
+<footer class="footer">
+  <div><strong>{data.name}</strong><span> · {data.location}</span></div>
+  <div class="links">
+    <a href={`mailto:${data.email}`}>{data.email}</a>
+    <a href={data.github} target="_blank" rel="noreferrer">GitHub</a>
+    <a href={data.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>
+  </div>
+</footer>

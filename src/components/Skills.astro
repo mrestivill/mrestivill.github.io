@@ -1,0 +1,9 @@
+---
+const { data } = Astro.props;
+---
+<section class="section">
+  <h2>{data.skillsTitle}</h2>
+  <div class="skills">
+    {data.skills.map((skill) => <span>{skill}</span>)}
+  </div>
+</section>

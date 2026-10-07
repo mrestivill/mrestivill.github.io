@@ -1,0 +1,18 @@
+---
+import { getEntry } from 'astro:content';
+import CVLayout from '../../layouts/CVLayout.astro';
+import Profile from '../../components/Profile.astro';
+import Experience from '../../components/Experience.astro';
+import Education from '../../components/Education.astro';
+import Skills from '../../components/Skills.astro';
+
+const entry = await getEntry('cv', 'ca');
+if (!entry) throw new Error('Missing Catalan CV');
+const { data } = entry;
+---
+<CVLayout data={data} lang="ca">
+  <Profile data={data} />
+  <Experience data={data} />
+  <Education data={data} />
+  <Skills data={data} />
+</CVLayout>

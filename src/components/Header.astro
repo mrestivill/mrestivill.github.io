@@ -1,0 +1,19 @@
+---
+import LanguageSwitcher from './LanguageSwitcher.astro';
+const { data, lang } = Astro.props;
+const pdf = `/cv/cv-${lang}.pdf`;
+---
+
+<header class="header">
+  <div>
+    <a class="brand" href={`/${lang}/`}>{data.name}</a>
+    <p class="role">{data.title}</p>
+  </div>
+
+  <div class="header-actions">
+    <LanguageSwitcher lang={lang} />
+    <a class="download" href={pdf} target="_blank" rel="noreferrer">
+      {data.downloadLabel} ↗
+    </a>
+  </div>
+</header>
